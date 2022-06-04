@@ -2,7 +2,7 @@
 This website increments/decrements/resets the counter.
 It can be used for various purposes such as: Counting the number of people, objects etc.
 
-Some Images showing hoe the website looks(for better experience visit the website at: https://kamalharsh14.github.io/Counter-App/)
+Here are some images showing how the website looks like(for better experience visit the website at: https://kamalharsh14.github.io/Counter-App/)
 
 ![landing_page](https://user-images.githubusercontent.com/60378766/172018740-58f57000-f92c-4760-9ba9-4eb510234551.jpg)
 
